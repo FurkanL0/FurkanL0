@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FurkanL0&style=flat-square&color=brightgreen" alt="Surfing" />
+  <img src="https://komarev.com/ghpvc/?username=FurkanL0&style=flat-square&color=brightgreen" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FurkanL0&style=flat-square&color=red" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=FurkanL0&style=flat-square&color=red" alt="Surfing" />
 </p>
 
 <p align="center">
