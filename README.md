@@ -11,6 +11,10 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FurkanL0&style=flat-square&color=brightred" alt="Profile Views" />
+</p>
+
+<p align="center">
   <img src="https://github.com/user-attachments/assets/ebfd3dd8-5ec8-4d78-b1c7-1a62bc5814c5" alt="Profile Image" style="max-width: 80%; border-radius: 10px;" />
 </p>
 
