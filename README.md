@@ -11,11 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ebfd3dd8-5ec8-4d78-b1c7-1a62bc5814c5" alt="Profile Image" style="max-width: 80%; border-radius: 10px;" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/7e748e3f-b1d3-4236-9040-56e5eeb46cc8" alt="Profile Image" style="max-width: 80%; border-radius: 10px;" />
+  <img src="https://github.com/user-attachments/assets/7b5eeb25-6c1c-4c6e-ba18-52dd3d45f359" alt="Profile Image" style="max-width: 80%; border-radius: 10px;" />
 </p>
 
 <h2 align="center">Project's</h2>
