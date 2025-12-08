@@ -1,7 +1,7 @@
 <h1 align="center">FurkanL0 Github</h1>
 
 <p align="center">
-  <a href="https://twitter.com/FurkanL0eth" target="_blank">
+  <a href="https://twitter.com/0xuzman" target="_blank">
     <img src="https://img.shields.io/badge/Follow-%40FurkanL0eth-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
   </a>
 </p>
